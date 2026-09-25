@@ -1,0 +1,146 @@
+country,country_code,region,income_group,payment_2021_pct,payment_2024_pct,payment_change_pp,payment_increased,payment_change_direction
+Afghanistan,AFG,South Asia (excluding high income),Low income,0.0,,,,not comparable
+Albania,ALB,Europe & Central Asia (excluding high income),Upper middle income,12.3007913070125,11.0835849125375,-1.2172063944749993,False,decreased
+Algeria,DZA,Middle East & North Africa (excluding high income),Lower middle income,5.32955599963553,7.0034433567602,1.67388735712467,True,increased
+Argentina,ARG,Latin America & Caribbean (excluding high income),Upper middle income,44.7122460621683,60.1935160039991,15.481269941830803,True,increased
+Armenia,ARM,Europe & Central Asia (excluding high income),Upper middle income,15.7412984160716,33.8038912222463,18.0625928061747,True,increased
+Australia,AUS,High income,High income,,,,,not comparable
+Austria,AUT,High income,High income,,,,,not comparable
+Azerbaijan,AZE,Europe & Central Asia (excluding high income),Upper middle income,,34.2395514486255,,,not comparable
+Bahrain,BHR,High income,High income,,,,,not comparable
+Bangladesh,BGD,South Asia (excluding high income),Lower middle income,2.7816103754451103,2.76196135009928,-0.01964902534583013,False,decreased
+Belgium,BEL,High income,High income,,,,,not comparable
+Belize,BLZ,Latin America & Caribbean (excluding high income),Upper middle income,,24.656641672003,,,not comparable
+Benin,BEN,Sub-Saharan Africa (excluding high income),Lower middle income,4.76988167480289,6.76468510773468,1.99480343293179,True,increased
+Bolivia,BOL,Latin America & Caribbean (excluding high income),Lower middle income,15.1146732974545,20.4834314434503,5.3687581459958,True,increased
+Bosnia and Herzegovina,BIH,Europe & Central Asia (excluding high income),Upper middle income,37.684752067034,31.782756820849,-5.901995246184999,False,decreased
+Botswana,BWA,Sub-Saharan Africa (excluding high income),Upper middle income,,25.5964267750239,,,not comparable
+Brazil,BRA,Latin America & Caribbean (excluding high income),Upper middle income,52.4152066400021,60.145936436664904,7.730729796662807,True,increased
+Bulgaria,BGR,Europe & Central Asia (excluding high income),Upper middle income,49.142750240598296,54.70464847002469,5.561898229426397,True,increased
+Burkina Faso,BFA,Sub-Saharan Africa (excluding high income),Low income,5.38652271308071,12.0444086841335,6.6578859710527905,True,increased
+Cambodia,KHM,East Asia & Pacific (excluding high income),Lower middle income,2.7515921986499,19.763513923457,17.011921724807102,True,increased
+Cameroon,CMR,Sub-Saharan Africa (excluding high income),Lower middle income,8.88961635688816,20.307798012584797,11.418181655696637,True,increased
+Canada,CAN,High income,High income,,,,,not comparable
+Chad,TCD,Sub-Saharan Africa (excluding high income),Low income,,5.02410563567403,,,not comparable
+Chile,CHL,High income,High income,,,,,not comparable
+China,CHN,East Asia & Pacific (excluding high income),Upper middle income,81.538643112818,79.6020479818583,-1.936595130959688,False,decreased
+Colombia,COL,Latin America & Caribbean (excluding high income),Upper middle income,20.4050296025435,26.1228867424814,5.717857139937898,True,increased
+Comoros,COM,Sub-Saharan Africa (excluding high income),Lower middle income,,6.78462065090128,,,not comparable
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa (excluding high income),Low income,,7.412418794710581,,,not comparable
+"Congo, Rep.",COG,Sub-Saharan Africa (excluding high income),Lower middle income,7.5956761190316,9.92573579698766,2.3300596779560596,True,increased
+Costa Rica,CRI,Latin America & Caribbean (excluding high income),Upper middle income,38.8338249915596,47.249721796633295,8.415896805073693,True,increased
+Cote d'Ivoire,CIV,Sub-Saharan Africa (excluding high income),Lower middle income,5.796978945436599,9.15960392725843,3.3626249818218312,True,increased
+Croatia,HRV,High income,High income,,65.3338586129033,,,not comparable
+Cyprus,CYP,High income,High income,,,,,not comparable
+Czechia,CZE,High income,High income,,,,,not comparable
+Denmark,DNK,High income,High income,,,,,not comparable
+Dominican Republic,DOM,Latin America & Caribbean (excluding high income),Upper middle income,13.2044125546648,27.6283979376036,14.4239853829388,True,increased
+Ecuador,ECU,Latin America & Caribbean (excluding high income),Upper middle income,15.8736388126278,20.7985967329601,4.9249579203323,True,increased
+"Egypt, Arab Rep.",EGY,Middle East & North Africa (excluding high income),Lower middle income,3.5129927430322296,5.23151161220924,1.7185188691770104,True,increased
+El Salvador,SLV,Latin America & Caribbean (excluding high income),Lower middle income,9.85185708831796,9.97992270570286,0.12806561738489997,True,increased
+Estonia,EST,High income,High income,,,,,not comparable
+Eswatini,SWZ,Sub-Saharan Africa (excluding high income),Lower middle income,,18.1668773149457,,,not comparable
+Ethiopia,ETH,Sub-Saharan Africa (excluding high income),Low income,,5.910857780012821,,,not comparable
+Finland,FIN,High income,High income,,,,,not comparable
+France,FRA,High income,High income,,,,,not comparable
+Gabon,GAB,Sub-Saharan Africa (excluding high income),Upper middle income,17.6665949740991,20.0726010138841,2.406006039784998,True,increased
+"Gambia, The",GMB,Sub-Saharan Africa (excluding high income),Low income,,3.18125053866821,,,not comparable
+Georgia,GEO,Europe & Central Asia (excluding high income),Upper middle income,31.086965444723504,47.5880731524407,16.501107707717196,True,increased
+Germany,DEU,High income,High income,,,,,not comparable
+Ghana,GHA,Sub-Saharan Africa (excluding high income),Lower middle income,14.8667606660636,27.2660123933136,12.399251727249998,True,increased
+Greece,GRC,High income,High income,,,,,not comparable
+Guatemala,GTM,Latin America & Caribbean (excluding high income),Upper middle income,,5.54166910635832,,,not comparable
+Guinea,GIN,Sub-Saharan Africa (excluding high income),Low income,5.6264112695524,8.40533277003318,2.77892150048078,True,increased
+Honduras,HND,Latin America & Caribbean (excluding high income),Lower middle income,9.55595919215117,9.93530896489275,0.37934977274158044,True,increased
+"Hong Kong SAR, China",HKG,High income,High income,,,,,not comparable
+Hungary,HUN,High income,High income,,,,,not comparable
+Iceland,ISL,High income,High income,,,,,not comparable
+India,IND,South Asia (excluding high income),Lower middle income,11.9045681158485,18.3006494075002,6.396081291651699,True,increased
+Indonesia,IDN,East Asia & Pacific (excluding high income),Lower middle income,12.9545047758276,13.595791923458,0.6412871476304005,True,increased
+"Iran, Islamic Rep.",IRN,Middle East & North Africa (excluding high income),Lower middle income,14.3677194096677,78.6183462177346,64.2506268080669,True,increased
+Iraq,IRQ,Middle East & North Africa (excluding high income),Upper middle income,6.10971839476889,10.5327302376035,4.423011842834611,True,increased
+Ireland,IRL,High income,High income,,,,,not comparable
+Israel,ISR,High income,High income,,,,,not comparable
+Italy,ITA,High income,High income,,,,,not comparable
+Jamaica,JAM,Latin America & Caribbean (excluding high income),Upper middle income,24.8539751669081,,,,not comparable
+Japan,JPN,High income,High income,,,,,not comparable
+Jordan,JOR,Middle East & North Africa (excluding high income),Upper middle income,11.9305220237491,12.5339073156608,0.6033852919116995,True,increased
+Kazakhstan,KAZ,Europe & Central Asia (excluding high income),Upper middle income,57.2642652325076,70.053528418232,12.789263185724408,True,increased
+Kenya,KEN,Sub-Saharan Africa (excluding high income),Lower middle income,36.8139916209146,55.7570024721425,18.943010851227903,True,increased
+"Korea, Rep.",KOR,High income,High income,,,,,not comparable
+Kosovo,XKX,Europe & Central Asia (excluding high income),Upper middle income,21.9941261421368,9.99354620876752,-12.000579933369279,False,decreased
+Kuwait,KWT,High income,High income,,,,,not comparable
+Kyrgyz Republic,KGZ,Europe & Central Asia (excluding high income),Lower middle income,11.3696502901028,43.399591024992205,32.02994073488941,True,increased
+Lao PDR,LAO,East Asia & Pacific (excluding high income),Lower middle income,8.96112225155103,21.5486369310646,12.58751467951357,True,increased
+Latvia,LVA,High income,High income,,,,,not comparable
+Lebanon,LBN,Middle East & North Africa (excluding high income),Lower middle income,2.82417074588832,4.10869459495707,1.28452384906875,True,increased
+Lesotho,LSO,Sub-Saharan Africa (excluding high income),Lower middle income,,15.7045781305587,,,not comparable
+Liberia,LBR,Sub-Saharan Africa (excluding high income),Low income,7.192345661885461,6.450753220229161,-0.7415924416562998,False,decreased
+Libya,LBY,Middle East & North Africa (excluding high income),Upper middle income,,15.0126045725958,,,not comparable
+Lithuania,LTU,High income,High income,,,,,not comparable
+Madagascar,MDG,Sub-Saharan Africa (excluding high income),Low income,,2.4181526171983,,,not comparable
+Malawi,MWI,Sub-Saharan Africa (excluding high income),Low income,7.84752592301098,10.4353134870286,2.58778756401762,True,increased
+Malaysia,MYS,East Asia & Pacific (excluding high income),Upper middle income,50.310181352638295,52.244761114208806,1.934579761570511,True,increased
+Mali,MLI,Sub-Saharan Africa (excluding high income),Low income,11.0494224812441,10.2050618427009,-0.8443606385432005,False,decreased
+Malta,MLT,High income,High income,,,,,not comparable
+Mauritania,MRT,Sub-Saharan Africa (excluding high income),Lower middle income,,12.269013631795,,,not comparable
+Mauritius,MUS,Sub-Saharan Africa (excluding high income),Upper middle income,49.0550860263362,49.889578824496,0.8344927981598005,True,increased
+Mexico,MEX,Latin America & Caribbean (excluding high income),Upper middle income,,25.9512003125,,,not comparable
+Moldova,MDA,Europe & Central Asia (excluding high income),Upper middle income,37.8245251190615,37.9754811205325,0.15095600147100185,True,increased
+Mongolia,MNG,East Asia & Pacific (excluding high income),Lower middle income,86.0921848657197,94.9414581306891,8.849273264969398,True,increased
+Montenegro,MNE,Europe & Central Asia (excluding high income),Upper middle income,,36.392149453113795,,,not comparable
+Morocco,MAR,Middle East & North Africa (excluding high income),Lower middle income,9.993430385517769,9.58445531780257,-0.40897506771519865,False,decreased
+Mozambique,MOZ,Sub-Saharan Africa (excluding high income),Low income,13.0485593753402,18.4743505713139,5.425791195973698,True,increased
+Myanmar,MMR,East Asia & Pacific (excluding high income),Lower middle income,16.2622195454251,,,,not comparable
+Namibia,NAM,Sub-Saharan Africa (excluding high income),Upper middle income,31.7414202196204,38.5722641043198,6.830843884699398,True,increased
+Nepal,NPL,South Asia (excluding high income),Lower middle income,5.41486576185851,9.28656569893237,3.871699937073859,True,increased
+Netherlands,NLD,High income,High income,,,,,not comparable
+New Zealand,NZL,High income,High income,,,,,not comparable
+Nicaragua,NIC,Latin America & Caribbean (excluding high income),Lower middle income,6.789381136442101,5.50652535696154,-1.2828557794805606,False,decreased
+Niger,NER,Sub-Saharan Africa (excluding high income),Low income,,2.4256928877143,,,not comparable
+Nigeria,NGA,Sub-Saharan Africa (excluding high income),Lower middle income,9.10272426820864,28.3892823105175,19.28655804230886,True,increased
+North Macedonia,MKD,Europe & Central Asia (excluding high income),Upper middle income,44.8340963756064,52.4441265937039,7.610030218097499,True,increased
+Norway,NOR,High income,High income,,,,,not comparable
+Oman,OMN,High income,High income,,39.2823126923528,,,not comparable
+Pakistan,PAK,South Asia (excluding high income),Lower middle income,1.07401554651021,4.26709818154803,3.19308263503782,True,increased
+Panama,PAN,High income,High income,,36.2395047540801,,,not comparable
+Paraguay,PRY,Latin America & Caribbean (excluding high income),Upper middle income,9.99398920358336,25.9603518868938,15.96636268331044,True,increased
+Peru,PER,Latin America & Caribbean (excluding high income),Upper middle income,21.8163904803478,32.7198227759096,10.9034322955618,True,increased
+Philippines,PHL,East Asia & Pacific (excluding high income),Lower middle income,18.4813064410323,13.4216483675958,-5.059658073436498,False,decreased
+Poland,POL,High income,High income,,78.0862584247596,,,not comparable
+Portugal,PRT,High income,High income,,,,,not comparable
+Romania,ROU,High income,High income,,50.184484131622,,,not comparable
+Russian Federation,RUS,Europe & Central Asia (excluding high income),Upper middle income,71.04699248496959,,,,not comparable
+Saudi Arabia,SAU,High income,High income,,64.1603226021606,,,not comparable
+Senegal,SEN,Sub-Saharan Africa (excluding high income),Lower middle income,11.602634496252,36.9725330533568,25.369898557104797,True,increased
+Serbia,SRB,Europe & Central Asia (excluding high income),Upper middle income,45.41332643983,53.780011821930394,8.366685382100393,True,increased
+Sierra Leone,SLE,Sub-Saharan Africa (excluding high income),Low income,3.2731050261056405,5.22927130109357,1.9561662749879298,True,increased
+Singapore,SGP,High income,High income,,,,,not comparable
+Slovak Republic,SVK,High income,High income,,,,,not comparable
+Slovenia,SVN,High income,High income,,,,,not comparable
+South Africa,ZAF,Sub-Saharan Africa (excluding high income),Upper middle income,54.070585961793206,46.9248370834271,-7.145748878366106,False,decreased
+South Sudan,SSD,Sub-Saharan Africa (excluding high income),Low income,0.62822377135349,,,,not comparable
+Spain,ESP,High income,High income,,,,,not comparable
+Sri Lanka,LKA,South Asia (excluding high income),Lower middle income,18.0856716736739,14.7824637184931,-3.3032079551808007,False,decreased
+Sweden,SWE,High income,High income,,,,,not comparable
+Switzerland,CHE,High income,High income,,,,,not comparable
+"Taiwan, China",TWN,High income,High income,,,,,not comparable
+Tajikistan,TJK,Europe & Central Asia (excluding high income),Lower middle income,4.047285227561019,16.18545298835,12.138167760788981,True,increased
+Tanzania,TZA,Sub-Saharan Africa (excluding high income),Lower middle income,4.491598017942651,3.85774579050142,-0.6338522274412308,False,decreased
+Thailand,THA,East Asia & Pacific (excluding high income),Upper middle income,63.2691355557406,51.2502194573726,-12.018916098367995,False,decreased
+Togo,TGO,Sub-Saharan Africa (excluding high income),Low income,2.7922537796721,13.771111205249,10.9788574255769,True,increased
+Trinidad and Tobago,TTO,High income,High income,,,,,not comparable
+Tunisia,TUN,Middle East & North Africa (excluding high income),Lower middle income,6.67537492562658,4.90348537302282,-1.7718895526037608,False,decreased
+Turkiye,TUR,Europe & Central Asia (excluding high income),Upper middle income,44.7706832325296,51.495663776426504,6.724980543896905,True,increased
+Uganda,UGA,Sub-Saharan Africa (excluding high income),Low income,10.3348169863667,11.6710083766861,1.3361913903193994,True,increased
+Ukraine,UKR,Europe & Central Asia (excluding high income),Lower middle income,58.5377357843424,73.605838165072,15.068102380729599,True,increased
+United Arab Emirates,ARE,High income,High income,,,,,not comparable
+United Kingdom,GBR,High income,High income,,,,,not comparable
+United States,USA,High income,High income,,,,,not comparable
+Uruguay,URY,High income,High income,,,,,not comparable
+Uzbekistan,UZB,Europe & Central Asia (excluding high income),Lower middle income,32.625781605119805,38.0865421568895,5.460760551769695,True,increased
+"Venezuela, RB",VEN,Latin America & Caribbean (excluding high income),Upper middle income,67.30374465804499,71.5578337734796,4.25408911543461,True,increased
+Viet Nam,VNM,East Asia & Pacific (excluding high income),Lower middle income,,51.1261382223712,,,not comparable
+West Bank and Gaza,PSE,Middle East & North Africa (excluding high income),Lower middle income,5.65510248880257,8.17762030340568,2.52251781460311,True,increased
+Zambia,ZMB,Sub-Saharan Africa (excluding high income),Low income,8.42155018520154,19.1966389039812,10.77508871877966,True,increased
+Zimbabwe,ZWE,Sub-Saharan Africa (excluding high income),Lower middle income,47.5647990769579,29.0984851650191,-18.466313911938798,False,decreased

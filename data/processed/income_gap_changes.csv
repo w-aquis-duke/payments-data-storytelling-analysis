@@ -1,0 +1,145 @@
+country,country_code,region,income_group,income_gap_2021_pp,income_gap_2024_pp,income_gap_change_pp,income_gap_widened,income_gap_change_direction,payment_change_pp,growth_third
+Afghanistan,AFG,South Asia (excluding high income),Low income,,,,,not comparable,,
+Albania,ALB,Europe & Central Asia (excluding high income),Upper middle income,13.21894838573044,10.86628444860925,-2.352663937121191,False,narrowed,-1.2172063944749993,slowest-growing third
+Algeria,DZA,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,1.67388735712467,
+Argentina,ARG,Latin America & Caribbean (excluding high income),Upper middle income,20.441665254147196,16.119216010933705,-4.322449243213491,False,narrowed,15.481269941830803,fastest-growing third
+Armenia,ARM,Europe & Central Asia (excluding high income),Upper middle income,8.6385379554637,12.273487719187496,3.634949763723796,True,widened,18.0625928061747,fastest-growing third
+Australia,AUS,High income,High income,,,,,not comparable,,
+Austria,AUT,High income,High income,,,,,not comparable,,
+Azerbaijan,AZE,Europe & Central Asia (excluding high income),Upper middle income,,26.209250718819003,,,not comparable,,
+Bahrain,BHR,High income,High income,,,,,not comparable,,
+Bangladesh,BGD,South Asia (excluding high income),Lower middle income,,,,,not comparable,-0.01964902534583013,
+Belgium,BEL,High income,High income,,,,,not comparable,,
+Belize,BLZ,Latin America & Caribbean (excluding high income),Upper middle income,,14.020638469418099,,,not comparable,,
+Benin,BEN,Sub-Saharan Africa (excluding high income),Lower middle income,,,,,not comparable,1.99480343293179,
+Bolivia,BOL,Latin America & Caribbean (excluding high income),Lower middle income,15.40033763255101,14.485573860899699,-0.9147637716513106,False,narrowed,5.3687581459958,middle third
+Bosnia and Herzegovina,BIH,Europe & Central Asia (excluding high income),Upper middle income,26.9145918077077,17.022738769603603,-9.891853038104099,False,narrowed,-5.901995246184999,slowest-growing third
+Botswana,BWA,Sub-Saharan Africa (excluding high income),Upper middle income,,23.417402126660797,,,not comparable,,
+Brazil,BRA,Latin America & Caribbean (excluding high income),Upper middle income,24.211994785625805,19.832179789943503,-4.3798149956823025,False,narrowed,7.730729796662807,middle third
+Bulgaria,BGR,Europe & Central Asia (excluding high income),Upper middle income,32.0694842128092,25.996540528694197,-6.072943684115003,False,narrowed,5.561898229426397,middle third
+Burkina Faso,BFA,Sub-Saharan Africa (excluding high income),Low income,,11.83942662248963,,,not comparable,6.6578859710527905,
+Cambodia,KHM,East Asia & Pacific (excluding high income),Lower middle income,,12.6960039198195,,,not comparable,17.011921724807102,
+Cameroon,CMR,Sub-Saharan Africa (excluding high income),Lower middle income,,16.165641453510297,,,not comparable,11.418181655696637,
+Canada,CAN,High income,High income,,,,,not comparable,,
+Chad,TCD,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Chile,CHL,High income,High income,,,,,not comparable,,
+China,CHN,East Asia & Pacific (excluding high income),Upper middle income,15.9242217386591,19.087655105084195,3.163433366425096,True,widened,-1.936595130959688,slowest-growing third
+Colombia,COL,Latin America & Caribbean (excluding high income),Upper middle income,24.7788202295301,20.0389685434154,-4.739851686114701,False,narrowed,5.717857139937898,middle third
+Comoros,COM,Sub-Saharan Africa (excluding high income),Lower middle income,,,,,not comparable,,
+"Congo, Dem. Rep.",COD,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+"Congo, Rep.",COG,Sub-Saharan Africa (excluding high income),Lower middle income,,,,,not comparable,2.3300596779560596,
+Costa Rica,CRI,Latin America & Caribbean (excluding high income),Upper middle income,28.2034288889111,23.131586865857884,-5.071842023053215,False,narrowed,8.415896805073693,fastest-growing third
+Cote d'Ivoire,CIV,Sub-Saharan Africa (excluding high income),Lower middle income,,,,,not comparable,3.3626249818218312,
+Croatia,HRV,High income,High income,,10.381260935565706,,,not comparable,,
+Cyprus,CYP,High income,High income,,,,,not comparable,,
+Czechia,CZE,High income,High income,,,,,not comparable,,
+Denmark,DNK,High income,High income,,,,,not comparable,,
+Dominican Republic,DOM,Latin America & Caribbean (excluding high income),Upper middle income,15.540326940491463,27.294637113491603,11.75431017300014,True,widened,14.4239853829388,fastest-growing third
+Ecuador,ECU,Latin America & Caribbean (excluding high income),Upper middle income,18.1256884865242,19.4061924564424,1.2805039699182004,True,widened,4.9249579203323,middle third
+"Egypt, Arab Rep.",EGY,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,1.7185188691770104,
+El Salvador,SLV,Latin America & Caribbean (excluding high income),Lower middle income,,,,,not comparable,0.12806561738489997,
+Estonia,EST,High income,High income,,,,,not comparable,,
+Eswatini,SWZ,Sub-Saharan Africa (excluding high income),Lower middle income,,9.935565028584499,,,not comparable,,
+Ethiopia,ETH,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Finland,FIN,High income,High income,,,,,not comparable,,
+France,FRA,High income,High income,,,,,not comparable,,
+Gabon,GAB,Sub-Saharan Africa (excluding high income),Upper middle income,0.5003090009441991,6.948222703520901,6.447913702576702,True,widened,2.406006039784998,middle third
+"Gambia, The",GMB,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Georgia,GEO,Europe & Central Asia (excluding high income),Upper middle income,22.0423171716678,28.4429444289404,6.4006272572726,True,widened,16.501107707717196,fastest-growing third
+Germany,DEU,High income,High income,,,,,not comparable,,
+Ghana,GHA,Sub-Saharan Africa (excluding high income),Lower middle income,11.810311143634149,12.065776079955697,0.2554649363215482,True,widened,12.399251727249998,fastest-growing third
+Greece,GRC,High income,High income,,,,,not comparable,,
+Guatemala,GTM,Latin America & Caribbean (excluding high income),Upper middle income,,,,,not comparable,,
+Guinea,GIN,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,2.77892150048078,
+Honduras,HND,Latin America & Caribbean (excluding high income),Lower middle income,,,,,not comparable,0.37934977274158044,
+"Hong Kong SAR, China",HKG,High income,High income,,,,,not comparable,,
+Hungary,HUN,High income,High income,,,,,not comparable,,
+Iceland,ISL,High income,High income,,,,,not comparable,,
+India,IND,South Asia (excluding high income),Lower middle income,12.86409273756085,20.26914368270718,7.405050945146332,True,widened,6.396081291651699,middle third
+Indonesia,IDN,East Asia & Pacific (excluding high income),Lower middle income,6.158792542407127,9.011108622437462,2.8523160800303344,True,widened,0.6412871476304005,slowest-growing third
+"Iran, Islamic Rep.",IRN,Middle East & North Africa (excluding high income),Lower middle income,8.049817697654838,15.658363599702895,7.608545902048057,True,widened,64.2506268080669,fastest-growing third
+Iraq,IRQ,Middle East & North Africa (excluding high income),Upper middle income,,7.765203884759269,,,not comparable,4.423011842834611,
+Ireland,IRL,High income,High income,,,,,not comparable,,
+Israel,ISR,High income,High income,,,,,not comparable,,
+Italy,ITA,High income,High income,,,,,not comparable,,
+Jamaica,JAM,Latin America & Caribbean (excluding high income),Upper middle income,19.918836301015098,,,,not comparable,,
+Japan,JPN,High income,High income,,,,,not comparable,,
+Jordan,JOR,Middle East & North Africa (excluding high income),Upper middle income,11.269867365470208,12.32396308156006,1.0540957160898508,True,widened,0.6033852919116995,slowest-growing third
+Kazakhstan,KAZ,Europe & Central Asia (excluding high income),Upper middle income,7.541571406366799,2.9346906800034844,-4.606880726363315,False,narrowed,12.789263185724408,fastest-growing third
+Kenya,KEN,Sub-Saharan Africa (excluding high income),Lower middle income,31.1438701155363,23.029993282082792,-8.113876833453507,False,narrowed,18.943010851227903,fastest-growing third
+"Korea, Rep.",KOR,High income,High income,,,,,not comparable,,
+Kosovo,XKX,Europe & Central Asia (excluding high income),Upper middle income,9.928547565563804,,,,not comparable,-12.000579933369279,
+Kuwait,KWT,High income,High income,,,,,not comparable,,
+Kyrgyz Republic,KGZ,Europe & Central Asia (excluding high income),Lower middle income,5.8961034790409395,16.5632514191918,10.667147940150862,True,widened,32.02994073488941,fastest-growing third
+Lao PDR,LAO,East Asia & Pacific (excluding high income),Lower middle income,,23.045626896967768,,,not comparable,12.58751467951357,
+Latvia,LVA,High income,High income,,,,,not comparable,,
+Lebanon,LBN,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,1.28452384906875,
+Liberia,LBR,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,-0.7415924416562998,
+Libya,LBY,Middle East & North Africa (excluding high income),Upper middle income,,1.2127075902412994,,,not comparable,,
+Lithuania,LTU,High income,High income,,,,,not comparable,,
+Madagascar,MDG,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Malawi,MWI,Sub-Saharan Africa (excluding high income),Low income,,7.367972648181648,,,not comparable,2.58778756401762,
+Malaysia,MYS,East Asia & Pacific (excluding high income),Upper middle income,35.726247933322,32.448800325076306,-3.2774476082456943,False,narrowed,1.934579761570511,slowest-growing third
+Mali,MLI,Sub-Saharan Africa (excluding high income),Low income,1.7058457354735008,8.995403771616239,7.289558036142738,True,widened,-0.8443606385432005,slowest-growing third
+Malta,MLT,High income,High income,,,,,not comparable,,
+Mauritania,MRT,Sub-Saharan Africa (excluding high income),Lower middle income,,1.9994828185987998,,,not comparable,,
+Mauritius,MUS,Sub-Saharan Africa (excluding high income),Upper middle income,22.52360110300649,15.929985436463198,-6.593615666543293,False,narrowed,0.8344927981598005,slowest-growing third
+Mexico,MEX,Latin America & Caribbean (excluding high income),Upper middle income,,22.733177731250095,,,not comparable,,
+Moldova,MDA,Europe & Central Asia (excluding high income),Upper middle income,18.2797507635507,25.9362119790749,7.6564612155242,True,widened,0.15095600147100185,slowest-growing third
+Mongolia,MNG,East Asia & Pacific (excluding high income),Lower middle income,6.223331827847602,2.3374308148358267,-3.8859010130117753,False,narrowed,8.849273264969398,fastest-growing third
+Montenegro,MNE,Europe & Central Asia (excluding high income),Upper middle income,,18.7504321473146,,,not comparable,,
+Morocco,MAR,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,-0.40897506771519865,
+Mozambique,MOZ,Sub-Saharan Africa (excluding high income),Low income,9.782144557072089,18.18574834875148,8.403603791679393,True,widened,5.425791195973698,middle third
+Myanmar,MMR,East Asia & Pacific (excluding high income),Lower middle income,16.163576526324142,,,,not comparable,,
+Namibia,NAM,Sub-Saharan Africa (excluding high income),Upper middle income,27.347540267892096,25.401242278975296,-1.9462979889168004,False,narrowed,6.830843884699398,middle third
+Nepal,NPL,South Asia (excluding high income),Lower middle income,,,,,not comparable,3.871699937073859,
+Netherlands,NLD,High income,High income,,,,,not comparable,,
+New Zealand,NZL,High income,High income,,,,,not comparable,,
+Nicaragua,NIC,Latin America & Caribbean (excluding high income),Lower middle income,,,,,not comparable,-1.2828557794805606,
+Niger,NER,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Nigeria,NGA,Sub-Saharan Africa (excluding high income),Lower middle income,,16.7458439509395,,,not comparable,19.28655804230886,
+North Macedonia,MKD,Europe & Central Asia (excluding high income),Upper middle income,27.589442390895005,30.6200865018953,3.0306441110002957,True,widened,7.610030218097499,middle third
+Norway,NOR,High income,High income,,,,,not comparable,,
+Oman,OMN,High income,High income,,10.523868627957704,,,not comparable,,
+Pakistan,PAK,South Asia (excluding high income),Lower middle income,,,,,not comparable,3.19308263503782,
+Panama,PAN,High income,High income,,34.1641362517865,,,not comparable,,
+Paraguay,PRY,Latin America & Caribbean (excluding high income),Upper middle income,,20.434214339904997,,,not comparable,15.96636268331044,
+Peru,PER,Latin America & Caribbean (excluding high income),Upper middle income,21.47537564636538,28.321488737512702,6.846113091147323,True,widened,10.9034322955618,fastest-growing third
+Philippines,PHL,East Asia & Pacific (excluding high income),Lower middle income,19.935260917708725,18.804225227174527,-1.1310356905341976,False,narrowed,-5.059658073436498,slowest-growing third
+Poland,POL,High income,High income,,10.249893556450601,,,not comparable,,
+Portugal,PRT,High income,High income,,,,,not comparable,,
+Romania,ROU,High income,High income,,31.828308413576302,,,not comparable,,
+Russian Federation,RUS,Europe & Central Asia (excluding high income),Upper middle income,15.263023845825401,,,,not comparable,,
+Saudi Arabia,SAU,High income,High income,,11.6707463214061,,,not comparable,,
+Senegal,SEN,Sub-Saharan Africa (excluding high income),Lower middle income,4.3427388002968,9.886534656301201,5.543795856004401,True,widened,25.369898557104797,fastest-growing third
+Serbia,SRB,Europe & Central Asia (excluding high income),Upper middle income,30.382053721421705,28.277981754303596,-2.1040719671181094,False,narrowed,8.366685382100393,middle third
+Sierra Leone,SLE,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,1.9561662749879298,
+Singapore,SGP,High income,High income,,,,,not comparable,,
+Slovak Republic,SVK,High income,High income,,,,,not comparable,,
+Slovenia,SVN,High income,High income,,,,,not comparable,,
+South Africa,ZAF,Sub-Saharan Africa (excluding high income),Upper middle income,24.239221401307304,13.301137679058208,-10.938083722249097,False,narrowed,-7.145748878366106,slowest-growing third
+South Sudan,SSD,Sub-Saharan Africa (excluding high income),Low income,,,,,not comparable,,
+Spain,ESP,High income,High income,,,,,not comparable,,
+Sri Lanka,LKA,South Asia (excluding high income),Lower middle income,16.52462098477688,15.435434605266082,-1.0891863795107994,False,narrowed,-3.3032079551808007,slowest-growing third
+Sweden,SWE,High income,High income,,,,,not comparable,,
+Switzerland,CHE,High income,High income,,,,,not comparable,,
+"Taiwan, China",TWN,High income,High income,,,,,not comparable,,
+Tajikistan,TJK,Europe & Central Asia (excluding high income),Lower middle income,,11.75554419465163,,,not comparable,12.138167760788981,
+Tanzania,TZA,Sub-Saharan Africa (excluding high income),Lower middle income,,,,,not comparable,-0.6338522274412308,
+Thailand,THA,East Asia & Pacific (excluding high income),Upper middle income,20.357396412698606,17.687530482555104,-2.6698659301435015,False,narrowed,-12.018916098367995,slowest-growing third
+Togo,TGO,Sub-Saharan Africa (excluding high income),Low income,,8.394024185619001,,,not comparable,10.9788574255769,
+Trinidad and Tobago,TTO,High income,High income,,,,,not comparable,,
+Tunisia,TUN,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,-1.7718895526037608,
+Turkiye,TUR,Europe & Central Asia (excluding high income),Upper middle income,28.4714798744749,29.42030629675279,0.948826422277893,True,widened,6.724980543896905,middle third
+Uganda,UGA,Sub-Saharan Africa (excluding high income),Low income,4.10061181602074,4.084478396215129,-0.01613341980561067,False,narrowed,1.3361913903193994,slowest-growing third
+Ukraine,UKR,Europe & Central Asia (excluding high income),Lower middle income,11.213124809068098,18.139662138115597,6.926537329047498,True,widened,15.068102380729599,fastest-growing third
+United Arab Emirates,ARE,High income,High income,,,,,not comparable,,
+United Kingdom,GBR,High income,High income,,,,,not comparable,,
+United States,USA,High income,High income,,,,,not comparable,,
+Uruguay,URY,High income,High income,,,,,not comparable,,
+Uzbekistan,UZB,Europe & Central Asia (excluding high income),Lower middle income,7.484753153726299,5.6665648579256995,-1.8181882958005993,False,narrowed,5.460760551769695,middle third
+"Venezuela, RB",VEN,Latin America & Caribbean (excluding high income),Upper middle income,19.494185074500585,19.470019579987692,-0.02416549451289285,False,narrowed,4.25408911543461,middle third
+Viet Nam,VNM,East Asia & Pacific (excluding high income),Lower middle income,,41.0460008333375,,,not comparable,,
+West Bank and Gaza,PSE,Middle East & North Africa (excluding high income),Lower middle income,,,,,not comparable,2.52251781460311,
+Zambia,ZMB,Sub-Saharan Africa (excluding high income),Low income,,20.40384518078725,,,not comparable,10.77508871877966,
+Zimbabwe,ZWE,Sub-Saharan Africa (excluding high income),Lower middle income,17.0705684466337,16.9924844128656,-0.07808403376809991,False,narrowed,-18.466313911938798,slowest-growing third

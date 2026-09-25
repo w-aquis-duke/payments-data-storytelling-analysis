@@ -1,0 +1,34 @@
+section,statistic,value,unit,sample_size
+coverage,countries with a 2024 estimate,98.0,countries,
+change,countries observed in both years,74.0,countries,
+change,countries with higher payment use in 2024,58.0,countries,74.0
+change,"median payment change, 2021–2024",4.0629,percentage points,74.0
+adoption,median payment use in 2024,20.1902,percent of adults,98.0
+adoption,25th percentile payment use in 2024,9.9281,percent of adults,98.0
+adoption,75th percentile payment use in 2024,42.3703,percent of adults,98.0
+demographic gaps,median education gap in 2024,25.6318,percentage points,70.0
+demographic gaps,countries with a positive education gap,69.0,countries,70.0
+demographic gaps,median laborforce gap in 2024,17.6396,percentage points,69.0
+demographic gaps,countries with a positive laborforce gap,69.0,countries,69.0
+demographic gaps,median income gap in 2024,16.7458,percentage points,69.0
+demographic gaps,countries with a positive income gap,69.0,countries,69.0
+demographic gaps,median urbanicity gap in 2024,11.3102,percentage points,69.0
+demographic gaps,countries with a positive urbanicity gap,64.0,countries,69.0
+demographic gaps,median gender gap in 2024,6.3198,percentage points,70.0
+demographic gaps,countries with a positive gender gap,60.0,countries,70.0
+demographic gaps,median age gap in 2024,0.5473,percentage points,70.0
+demographic gaps,countries with a positive age gap,36.0,countries,70.0
+Nigeria example,poorest 40% payment rate,18.3434,percent of adults,
+Nigeria example,richest 60% payment rate,35.0892,percent of adults,
+Nigeria example,income gap,16.7458,percentage points,
+income gap change,countries with comparable income gaps,43.0,countries,
+income gap change,countries where the income gap widened,20.0,countries,43.0
+income gap change,median income-gap change,-0.0242,percentage points,43.0
+income gap change,correlation of payment growth and income-gap change,0.3763,Pearson correlation,43.0
+growth thirds,slowest-growing third: median payment change,-1.2172,percentage points,15.0
+growth thirds,slowest-growing third: median income-gap change,-1.0892,percentage points,15.0
+growth thirds,middle third: median payment change,5.6399,percentage points,14.0
+growth thirds,middle third: median income-gap change,-0.4695,percentage points,14.0
+growth thirds,fastest-growing third: median payment change,15.2747,percentage points,14.0
+growth thirds,fastest-growing third: median income-gap change,4.5894,percentage points,14.0
+growth thirds,income gaps widened among 10 fastest-growing countries,7.0,countries,10.0
